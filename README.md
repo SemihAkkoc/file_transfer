@@ -31,7 +31,7 @@ In the source folder “src” implementations of the header files are made.
 
 ### References:
 1) R.Guru, https://refactoring.guru/design-patterns/factory-method, 2014.
-2) IBM, https://www.ibm.com/docs/en/ssw_ibm_i_74/rzab6/rzab6pdf.pdf.
+2) IBM, https://www.ibm.com/docs/en/ssw_ibm_i_74/rzab6/rzab6pdf.pdf , 2001.
 3) CPP Reference, https://en.cppreference.com/w/cpp/thread/thread, 2011.
 4) R.Guru, refactoring.guru, https://refactoring.guru/design-patterns/observer, 2014.
 5) S.Akkoc, Github, https://github.com/SemihAkkoc/file_transfer, 2022.
