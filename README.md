@@ -27,7 +27,7 @@ In the source folder “src” implementations of the header files are made.
 - [ ] creating an UI
 
 #### GIF of the project:
-![file_transfer_gif]()
+![file_transfer_](https://github.com/SemihAkkoc/file_transfer/blob/main/file_transfer_.gif)
 
 ### References:
 1) R.Guru, https://refactoring.guru/design-patterns/factory-method, 2014.
