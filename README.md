@@ -1,7 +1,7 @@
-##Internship description:
+###Internship description:
 	I’ve completed my internship period as a software developer intern at BİTES - Defence & Aerospace Technologies. I worked directly with Ugur Melih Surme.
 
-##Overview of internship experience:
+###Overview of internship experience:
 	During my internship course, I’ve assigned to develop a program that transfers files using sockets and threads. The program reads and writes in binary mode to the extent of being able to read and write any file type. While structuring my code, I’ve used several design patterns, such as the factory method for creating and initializing sockets and observer (listener) pattern from behavioral patterns in order to notify the socket when the worker has exhausted itself. All of the code is written in C++ language.
 In the below section, project files will be summarized in the interest of briefly explaining how the program works.
 #main.cpp: When it is executed with appropriate arguments (for instance ./file_transfer -tcp -port=5000 -s -file=”pathname”) it creates the desired socket and executes the apt lines depending on whether the socket is a server socket or a client socket.
