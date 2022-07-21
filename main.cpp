@@ -1,15 +1,10 @@
 #include "FileReader.h"
 #include "FileWriter.h"
 
-/*
- * when we create a pointer which points to an array then we need to delete it with delete[] in order to delete everything
- * when we use * in front of a pointer it refers to the value inside the address that pointer points
- * when we use & in front of an object or a scale value it means that we are looking its address
- * when we use * in front of a pointer it means the address of the pointer
-*/
-
 
 /*
+ *  In order to run this executable, arguments need to be given in the following order shown below. 
+ *
  * ./file_transfer -tcp -port=5000 -s -file="pathname"
  * ./file_transfer -tcp -port=5000 -c -file="pathname"
  */
