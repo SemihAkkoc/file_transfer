@@ -7,6 +7,8 @@
  *
  * ./file_transfer -tcp -port=5000 -s -file="pathname"
  * ./file_transfer -tcp -port=5000 -c -file="pathname"
+ * ./file_transfer -udp -port=5000 -s -file="pathname"
+ * ./file_transfer -udp -port=5000 -c -file="pathname"
  */
 
 
